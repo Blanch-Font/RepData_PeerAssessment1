@@ -1,11 +1,11 @@
 ---
-title: "Untitled"
+title: "Reproducible Research: Peer Assessment 1"
 author: "JBF"
 date: "7/1/2016"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
-
-# RepData
 
 ## Loading and preprocessing the data
 ```{r}
